@@ -1,0 +1,12 @@
+{
+  "name": "@vyrnn/zeraph-exceptions",
+  "version": "0.0.1-ALPHA",
+  "author": "Vinícius Gutierrez <srgutyerrez@gmail.com>",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "^4.5.5"
+  }
+}
