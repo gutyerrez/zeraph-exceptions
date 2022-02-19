@@ -8,6 +8,8 @@ export abstract class Exception extends Error {
     super(message)
 
     this.status = status
+
+    delete this.stack
   }
 }
 
