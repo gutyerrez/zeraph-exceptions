@@ -1,6 +1,6 @@
 {
   "name": "@vyrnn/zeraph-exceptions",
-  "version": "0.0.3-ALPHA",
+  "version": "0.0.4-ALPHA",
   "author": "Vinícius Gutierrez <srgutyerrez@gmail.com>",
   "main": "dist/index.js",
   "scripts": {
